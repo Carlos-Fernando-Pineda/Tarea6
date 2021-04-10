@@ -1,0 +1,15 @@
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\bin\Debug\netcoreapp3.1\ArreglosP1B.exe
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\bin\Debug\netcoreapp3.1\ArreglosP1B.deps.json
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\bin\Debug\netcoreapp3.1\ArreglosP1B.runtimeconfig.json
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\bin\Debug\netcoreapp3.1\ArreglosP1B.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\bin\Debug\netcoreapp3.1\ArreglosP1B.dll
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\bin\Debug\netcoreapp3.1\ArreglosP1B.pdb
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\obj\Debug\netcoreapp3.1\ArreglosP1B.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\obj\Debug\netcoreapp3.1\ArreglosP1B.Form1.resources
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\obj\Debug\netcoreapp3.1\ArreglosP1B.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\obj\Debug\netcoreapp3.1\ArreglosP1B.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\obj\Debug\netcoreapp3.1\ArreglosP1B.AssemblyInfo.cs
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\obj\Debug\netcoreapp3.1\ArreglosP1B.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\obj\Debug\netcoreapp3.1\ArreglosP1B.dll
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\obj\Debug\netcoreapp3.1\ArreglosP1B.pdb
+C:\Users\carlo\source\repos\ArreglosP1B\ArreglosP1B\obj\Debug\netcoreapp3.1\ArreglosP1B.genruntimeconfig.cache
